@@ -1,0 +1,3 @@
+# elasticsearch-clickstream-demo
+
+TODO.
